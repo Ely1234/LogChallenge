@@ -1,0 +1,3 @@
+INFO: Job: Data Processing (PID: 12345) took 2 minutes.
+WARNING: Job: Report Generation (PID: 67890) took 12 minutes. Exceeded warning threshold!
+ERROR: Job: Image Processing (PID: 54321) took 20 minutes. Exceeded error threshold!
